@@ -12,6 +12,7 @@ Laporan pasca-insiden keamanan pada DGX Spark `spark-1229`. Dua insiden cryptoja
 | 2 | **[INCIDENT-REPORT-PART-2.md](./INCIDENT-REPORT-PART-2.md)** | **13 Juni 2026** — Mereka tidak pernah pergi, mereka tertidur. Image Docker yang ter-poison via `docker commit` setelah insiden #1 — dibangunkan kembali oleh `docker compose up` rutin. SOC yang dipasang antara kedua insiden, menangkap mereka di menit pertama. |
 | 3 | **[IOCs.md](./IOCs.md)** | Indicators of Compromise — file paths, build IDs, network IOCs, TTPs (MITRE ATT&CK), detection rules. Untuk konsumsi praktisi keamanan. |
 | 4 | **[RUNBOOK.md](./RUNBOOK.md)** | Runbook operasional — *containment* reversible, forensik, analisa vektor, cleanup, verifikasi. Disarikan dari penanganan langsung. |
+| 5 | **[PAPER-PLAN.md](./PAPER-PLAN.md)** | Rencana penulisan karya ilmiah dari material di repo ini — tiga sudut paper (case study, design pattern, experience report), target venue, outline per-section, literature starter, timeline 8-minggu, strategi author. |
 
 ---
 
