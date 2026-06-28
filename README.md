@@ -13,6 +13,7 @@ Laporan pasca-insiden keamanan pada DGX Spark `spark-1229`. Dua insiden cryptoja
 | 3 | **[IOCs.md](./IOCs.md)** | Indicators of Compromise — file paths, build IDs, network IOCs, TTPs (MITRE ATT&CK), detection rules. Untuk konsumsi praktisi keamanan. |
 | 4 | **[RUNBOOK.md](./RUNBOOK.md)** | Runbook operasional — *containment* reversible, forensik, analisa vektor, cleanup, verifikasi. Disarikan dari penanganan langsung. |
 | 5 | **[PAPER-PLAN.md](./PAPER-PLAN.md)** | Rencana penulisan karya ilmiah dari material di repo ini — tiga sudut paper (case study, design pattern, experience report), target venue, outline per-section, literature starter, timeline 8-minggu, strategi author. |
+| 6 | **[INCIDENT-METRICS-SUPPLEMENT.md](./INCIDENT-METRICS-SUPPLEMENT.md)** | Suplemen metrik untuk paper — angka MTTR insiden #1 (anchor 23:02-23:30 WIB) + beban sistem insiden #2 (`docker stats` 107.59% CPU), framing jujur soal log retention gap, tabel komparasi siap-pakai, dan kalimat-kalimat siap-quote untuk Abstract/§Evaluation/§Discussion. |
 
 ---
 
